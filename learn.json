@@ -14,6 +14,7 @@
     "difficulty": "beginner",
     "duration": 2,
     "projectType": "tutorial",
+    "autoPlay": "true",
     "description": {
         "en": "A comprehensive guide and lesson on how to create AI-generated images using Krea.ai, explore Flux models, and craft effective prompts for image generation.",
         "es": "Una guía y lección completa sobre cómo crear imágenes generadas por IA utilizando Krea.ai, explorar modelos Flux y elaborar prompts efectivos para la generación de imágenes."
